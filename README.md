@@ -21,7 +21,8 @@ ticket	Ticket number
 fare	Passenger fare	
 cabin	Cabin number	
 embarked	Port of Embarkation	C = Cherbourg, Q = Queenstown, S = Southampton
-Variable Notes
+
+### Variable Notes
 
 pclass: A proxy for socio-economic status (SES)
 1st = Upper
